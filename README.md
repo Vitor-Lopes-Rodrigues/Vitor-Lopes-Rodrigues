@@ -1,5 +1,5 @@
-### Ola! Eu sou o Vitor Lopes 🙋‍♂️
-- 🔭 Atualmente estou em busca de emprego como Analista de Banco de Dados
+ ### Ola! Eu sou o Vitor Lopes 🙋‍♂️
+- 🔭 Atualmente estou em busca de emprego  como full stack developer
 - 🌱 Estou estudando Power Bi
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Jogador de Basquete em horas vagas
@@ -9,7 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-lopes-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-lopes-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
   
   <img align="center" alt="Vitor-mysql" height="30" width="50"  src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vitor-Figma" height="30" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">

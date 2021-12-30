@@ -1,6 +1,6 @@
  ### Ola! Eu sou o Vitor Lopes 🙋‍♂️
 - 🔭 Atualmente estou em busca de emprego  como full stack developer
-- 🌱 Estou estudando Power Bi
+- 🌱 Estou estudando React
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Jogador de Basquete em horas vagas
 

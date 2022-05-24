@@ -1,6 +1,6 @@
  ### Ola! Eu sou o Vitor Lopes 🙋‍♂️
-- 🔭 Atualmente estou em busca de emprego  como full stack developer
-- 🌱 Estou estudando React
+- 🔭 Atualmente sou desenvolvedor junior 
+- 🌱 Estou estudando de tudo um pouco
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Jogador de Basquete em horas vagas
 
@@ -23,7 +23,7 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/xlopes_x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/feat_lopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="Twich_tv/xlopesxxx#8003" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "email:vitorlopes758@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-lopes-a183a71b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

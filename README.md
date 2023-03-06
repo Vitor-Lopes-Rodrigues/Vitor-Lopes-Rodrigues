@@ -1,7 +1,6 @@
  ### Ola! Eu sou o Vitor Lopes 🙋‍♂️
 - 🔭 Atualmente sou desenvolvedor junior 
 - 🌱 Estou estudando de tudo um pouco
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Jogador de Basquete em horas vagas
 
 <div>

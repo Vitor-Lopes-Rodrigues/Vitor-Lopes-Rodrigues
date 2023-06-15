@@ -14,4 +14,6 @@
   <a href="https://www.linkedin.com/in/vitor-lopes-a183a71b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ##  
+ ---
+ [![](https://visitcount.itsvg.in/api?id=Vitor&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 

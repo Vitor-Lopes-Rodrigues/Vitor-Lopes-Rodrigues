@@ -12,8 +12,13 @@
  <a href="Twich_tv/xlopesxxx#8003" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "email:vitorlopes758@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-lopes-a183a71b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-##  
- ---
+
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JuliaCastro-Dev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+##
+ 
+ ## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia) 
+---
  [![](https://visitcount.itsvg.in/api?id=Vitor&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 

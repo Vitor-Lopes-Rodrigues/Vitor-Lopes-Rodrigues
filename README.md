@@ -1,5 +1,5 @@
  ### Ola! Eu sou o Vitor Lopes 🙋‍♂️
-- 🔭 Atualmente sou desenvolvedor junior 
+- 🔭 Atualmente sou Programador de sistemas de informação 
 - 🌱 Estou estudando de tudo um pouco
 - ⚡ Fun fact: Jogador de Basquete em horas vagas
 

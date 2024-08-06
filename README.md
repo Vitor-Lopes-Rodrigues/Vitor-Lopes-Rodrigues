@@ -57,13 +57,15 @@
  ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia) 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Vitor-Lopes-Rodrigues&label=Profile%20Views&color=3&icon=7&pretty=false" />
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitor-Lopes-Rodrigues/Vitor-Lopes-Rodrigues/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitor-Lopes-Rodrigues/Vitor-Lopes-Rodrigues/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vitor-Lopes-Rodrigues/Vitor-Lopes-Rodrigues/output/github-contribution-grid-snake.svg">
 </picture>
+---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Vitor-Lopes-Rodrigues&label=Profile%20Views&color=3&icon=7&pretty=false" />
+</a>
+
 

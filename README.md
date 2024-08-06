@@ -61,6 +61,9 @@
   <img src="https://visitcount.itsvg.in/api?id=Vitor-Lopes-Rodrigues&label=Profile%20Views&color=3&icon=7&pretty=false" />
 </a>
 
-![Snake animation](https://github.com/Vitor-Lopes-Rodrigues/Vitor-Lopes-Rodrigues/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitor-Lopes-Rodrigues/Vitor-Lopes-Rodrigues/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitor-Lopes-Rodrigues/Vitor-Lopes-Rodrigues/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vitor-Lopes-Rodrigues/Vitor-Lopes-Rodrigues/output/github-contribution-grid-snake.svg">
+</picture>
 

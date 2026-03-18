@@ -1,7 +1,8 @@
  ### Ola! Eu sou o Vitor Lopes 🙋‍♂️
-- 🔭 Atualmente sou Programador de sistemas de informação 
+- 🔭 Desenvolvedor de Software e Cientista de dados com IA 
 - 🌱 Estou estudando de tudo um pouco
 - ⚡ Fun fact: Jogador de Basquete em horas vagas
+-  Formado em Sitemas da informação e realizando Pos Graduação de Ciencia de Dados com IA
 
 <div>
   <a href="https://github.com/Vitor-Lopes-Rodrigues">
